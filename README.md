@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Repolist é um app simples que lista todos os repositórios do github da Rocketseat. Ele foi elaborado durante o capítulo 1 do ignite.
+O Github Explorer é um app simples que lista todos os repositórios do github da Rocketseat. Ele foi elaborado durante o capítulo 1 do ignite.
 
 ## 🔖 Layout
 
