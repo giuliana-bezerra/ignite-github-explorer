@@ -1,5 +1,5 @@
 <h1 align="center">
-  Repolist
+  Github Explorer
 </h1>
 
 <p align="center">
